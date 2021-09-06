@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    background-color: #010a01;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
+
+.headline{
+    text-align: right;
+}
+
+.btn-cart{
+    margin: 5px;
+    text-align: right;
+}
+
+.products{
+    text-align: center;
+    display: flex;
+}
+
+h3, p, .btn-cart, .by-btn{
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+    margin: 10px;
+}
+
+.by-btn{
+    color: black;
+    font-size: 20px;
+}
+
